@@ -1,18 +1,26 @@
 [
-	{
-		"type": "email",
-		"href": "mailto:hi@digitalandy.eu"
-	},
-	{
-		"type": "telegram",
-		"href": "https://t.me/andriilive"
-	},
-	{
-		"type": "facebook-messenger",
-		"href": "https://m.me/digitalandy.eu"
-	},
-	{
-		"type": "whatsapp",
-		"href": "https://wa.me/message/SVBNVNLZ2W4FJ1"
-	}
+  {
+    "type": "web",
+    "href": "https://andriilive.github.io"
+  },
+  {
+    "type": "email",
+    "href": "mailto:hi@digitalandy.eu"
+  },
+  {
+    "type": "telegram",
+    "href": "https://t.me/andriilive"
+  },
+  {
+    "type": "vcf",
+    "href": "https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.vcf"
+  },
+  {
+    "type": "business:web",
+    "href": "https://digitalandy.eu"
+  },
+  {
+    "type": "business:contacts",
+    "href": "https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json"
+  }
 ]
