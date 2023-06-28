@@ -12,15 +12,11 @@
     "href": "https://t.me/andriilive"
   },
   {
+    "type": "whatsapp",
+    "href": "https://wa.me/message/SVBNVNLZ2W4FJ1"
+  },
+	{
     "type": "vcf",
-    "href": "https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.vcf"
-  },
-  {
-    "type": "business:web",
-    "href": "https://digitalandy.eu"
-  },
-  {
-    "type": "business:contacts",
-    "href": "https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json"
+    "href": "https://raw.githubusercontent.com/digitalandyeu/.github/main/public/vcf/digitalandy_eng.vcf"
   }
 ]
