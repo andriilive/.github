@@ -1,0 +1,52 @@
+[
+  {
+    "text": "GitHub",
+    "href": "https://github.com/andrii.live",
+    "weight": 1
+  },
+  {
+    "text": "LinkedIn",
+    "href": "https://www.linkedin.com/company/digitalandy-eu",
+    "weight": 1
+  },
+  {
+    "text": "Facebook",
+    "href": "https://www.facebook.com/andrii.live",
+    "weight": 2
+  },
+  {
+    "text": "Telegram",
+    "href": "https://t.me/digitalandyeu",
+    "weight": 2
+  },
+  {
+    "text": "Digitalandy.eu Business Profile socials",
+    "href": "https://raw.githubusercontent.com/digitalandyeu/.github/main/public/data/socials.json",
+    "weight": 2
+  },
+  {
+    "text": "GitLab",
+    "href": "https://gitlab.com/andriilive",
+    "title": "GitLab public profile",
+    "weight": 3
+  },
+  {
+    "text": "Instagram",
+    "href": "https://www.instagram.com/digitalandy.eu",
+    "title": "Instagram personal profile",
+    "weight": 3
+  },
+  {
+    "text": "Twitter",
+    "href": "https://twitter.com/digitalandyeu",
+    "title": "Twitter personal profile",
+    "weight": 3
+  },
+  {
+    "text": "VK",
+    "href": "https://vk.com/digitalandy",
+    "title": "Vkontakte personal page",
+    "lang": "ru",
+    "weight": 4
+  }
+]
