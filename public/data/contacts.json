@@ -7,6 +7,10 @@
     "type": "email",
     "href": "mailto:hi@digitalandy.eu"
   },
+	{
+    "type": "job",
+    "href": "mailto:job@digitalandy.eu"
+  },
   {
     "type": "telegram",
     "href": "https://t.me/andriilive"
