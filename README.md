@@ -1,4 +1,4 @@
-# Andrii Ivashchuk (@digitalandyeu)
+# Andrii Ivashchuk ([@digitalandyeu](http://github.com/digitalandyeu))
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
