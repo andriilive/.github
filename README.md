@@ -9,3 +9,9 @@
 <!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)&nbsp; -->
 
 ---
+
+<small>
+	
+Maintained by [@digitalandyeu](https://github.com/digitalandyeu) since {2019}. All rights reserved.
+
+</small>
