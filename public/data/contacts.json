@@ -22,5 +22,9 @@
 	{
     "type": "vcf",
     "href": "https://raw.githubusercontent.com/digitalandyeu/.github/main/public/vcf/digitalandy_eng.vcf"
-  }
+  },
+	{
+		"type": "bank:revolut",
+		"href": "https://revolut.me/digitalandy"
+	}
 ]
