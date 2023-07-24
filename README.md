@@ -8,11 +8,11 @@ A **full-stack web developer** with extensive experience in frontend. I possess 
 
 ---
 
-[Webpage](http://andriilive.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;
-[Instagram](https://www.instagram.com/digitalandy.eu)&nbsp;&nbsp;|&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/andyivashchuk/)&nbsp;&nbsp;|&nbsp;&nbsp;
-[Dribble](https://dribbble.com/digitalandy)&nbsp;&nbsp;|&nbsp;&nbsp;
-[Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json)&nbsp;&nbsp;|&nbsp;&nbsp;
-[Socials](https://github.com/andriilive/andriilive/blob/main/public/data/socials.json)&nbsp;&nbsp;|&nbsp;&nbsp;
-[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json)&nbsp;&nbsp;|&nbsp;&nbsp;
-[digitalandy.eu](http://digitalandy.eu)
+[Webpage](http://andriilive.github.io) |
+[Instagram](https://www.instagram.com/digitalandy.eu) |
+[LinkedIn](https://www.linkedin.com/in/andyivashchuk/) |
+[Dribble](https://dribbble.com/digitalandy) |
+[Facebook](https://www.facebook.com/digitalandy.eu) |
+[Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
+[Socials](https://github.com/andriilive/andriilive/blob/main/public/data/socials.json) |
+[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json)
