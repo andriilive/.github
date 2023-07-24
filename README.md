@@ -10,12 +10,12 @@ A **full-stack web developer** with extensive experience in frontend. I possess 
 
 <!-- START:SKILLS -->
 - Websites
-- Designs and brands
+- Prototypes, design concepts, UI Kits
 - Digital solutions for business
 <!-- END:SKILLS -->
 
 ---
-
+<!-- START:LINKS -->
 [Webpage](http://andriilive.github.io) |
 [Instagram](https://www.instagram.com/digitalandy.eu) |
 [LinkedIn](https://www.linkedin.com/in/andyivashchuk/) |
@@ -24,3 +24,4 @@ A **full-stack web developer** with extensive experience in frontend. I possess 
 [Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
 [Socials](https://github.com/andriilive/andriilive/blob/main/public/data/socials.json) |
 [Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json)
+<!-- END:SKILLS -->
