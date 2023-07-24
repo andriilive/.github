@@ -63,5 +63,10 @@
     "text": "VK",
     "href": "https://vk.com/digitalandyeu",
     "weight": 0
-  }
+  },
+	{
+		"text": "CodePen",
+		"href":"https://codepen.io/digitalandy",
+		"weight": 0
+	}
 ]
