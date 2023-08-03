@@ -1,4 +1,4 @@
-# Andrii Ivashchuk <sub><sup>[CV & Portfolio →](http://andriilive.github.io)</sub></sup>
+# Andrii Ivashchuk <sub><sup>[CV & Portfolio website →](http://andriilive.github.io)</sub></sup>
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine) 
 [![Github Badge](https://img.shields.io/github/followers/digitalandyeu?label=@digitalandyeu&style=social)](https://www.github.com/digitalandyeu)
@@ -33,12 +33,9 @@ Building digital solutions **since 2014**
 - Dev operations and automations (Unix, bash scripting, virtualization, networking, VPS administration)
 - Studied Enterprise Economy / Marketing (unfinished)
 
-## Portfolio website 💼 <sub><sup>[**Open →**](http://andriilive.github.io)</sup></sub>
-
-Projects, education and portfolio: [web](http://andriilive.github.io) and [PDF](https://andriilive.github.io/docs/presentation.pdf) version
-
 ---
 
+[Portfolio PDF](https://andriilive.github.io/docs/digitalandy_presentation__eng.pdf) | 
 [Instagram](https://www.instagram.com/digitalandy.eu) |
 [Telegram News](https://t.me/digitalandyeu) |
 [LinkedIn](https://www.linkedin.com/in/andyivashchuk) |
