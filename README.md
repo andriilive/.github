@@ -36,6 +36,43 @@ Building digital solutions **since 2015**
 - GSAP, Framer Motion and morphing SVG animations
 - Enterprise economy degree. On-line marketing degree <sub><sup>(unfinished)</sup></sub>
 - Continuous learning, adaptability, empathy
+- **Jamstack**: Headless WP, Keystone.js, Strapi, supabase.io
+
+### Development tags cloud ☁️
+
+#### <sub>Primary</sub>
+
+`PHP` `JavaScript` `Web Design` `Node.js` `React JS`
+
+#### <sub>Secondary</sub>
+
+`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
+
+`Relational Databases` `SQL`
+
+`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
+
+`Laravel` `WooCommerce` `Wordpress` `Headless CMS`
+
+`Functional Programming` `PostCSS` `ES6` `Webpack` `TypeScript`
+
+`Next.js` `GatsbyJS` `Astro` `Tailwind CSS` `Jamstack`
+
+#### <sub>Side</sub>
+
+`Online Marketing` `Prototyping`  `Email Marketing` `Finance`
+
+`Remote development` `Framer Motion`
+
+#### <sub>Tools & software</sub>
+
+`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
+
+`Docker` `Git` `Unix administration` `MacOS` `jq`
+
+`Postman` `JetBrains` `GitHub`
+
+`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
 
 ### Development tags cloud ☁️
 
@@ -63,7 +100,7 @@ Building digital solutions **since 2015**
 
 `Docker` `Git` `Unix administration` `Vercel` `Netlify` `MacOS`
 
-`Postman` `JetBrains` `GitHub`
+`Postman` `JetBrains` `GitHub` `Linters` `Code formatters`
 
 ## Career journey 💼
 
