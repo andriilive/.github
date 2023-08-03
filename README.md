@@ -22,5 +22,5 @@ Work experience & portfolio
 [Instagram](https://www.instagram.com/digitalandy.eu) |
 [Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
 [Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json) |
-[Static Assets](https://github.com/andriilive/andriilive/tree/main/public/data)
+[Static Assets](https://github.com/andriilive/andriilive/tree/main/public)
 <!-- END:SKILLS -->
