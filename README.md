@@ -72,7 +72,7 @@ Building digital solutions **since 2015**
 
 `Postman` `JetBrains` `GitHub` `Linters` `Code formatters`
 
-`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
+`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App` `husky` `eslint` `prettier`
 
 ## Career journey 💼
 
