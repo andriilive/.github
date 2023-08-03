@@ -1,27 +1,26 @@
 # Andrii Ivashchuk <sub><sup>[@digitalandyeu](http://github.com/digitalandyeu)</sub></sup>
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine) 
-[![Github Badge](https://img.shields.io/github/followers/andriilive?label=@andriilive&style=social)](https://www.github.com/andriilive) 
-[![Twitter Badge](https://img.shields.io/twitter/follow/andrii_live?label=@andrii_live&style=social)](https://twitter.com/andrii_live) 
+[![Github Badge](https://img.shields.io/github/followers/andriilive?label=@andriilive&style=social)](https://www.github.com/andriilive)
 
-<!-- ABOUT:START -->
-A **full-stack web developer** with extensive experience in frontend. I possess a strong background in UX/UI design and programming, making me a well-rounded and versatile developer. I do:
-<!-- ABOUT:END -->
+**Full-stack web developer** with rich experience in frontend and design, offering:
 
-<!-- START:SKILLS -->
-- Websites
-- Prototypes, design concepts, UI Kits
-- Digital solutions for business
-<!-- END:SKILLS -->
+- Websites production <sub><sup>(SEO / WOW / Ecommerce)</sub></sup>
+- Art direction <sub><sup>(sm / xs digital projects)</sub></sup>
+- Ex-designer skills: prototyping, UI/UX design, branding
+- IT support and automation for business
+
+I'm ready to collaborate with agencies, startups and small businesses 
+
+---
+
+Work experience & portfolio 
 
 ---
 <!-- START:LINKS -->
-[Webpage](http://andriilive.github.io) |
+[Commercial offer PDF](http://andriilive.github.io) |
 [Instagram](https://www.instagram.com/digitalandy.eu) |
-[LinkedIn](https://www.linkedin.com/in/andyivashchuk/) |
-[Dribble](https://dribbble.com/digitalandy) |
-[Facebook](https://www.facebook.com/digitalandy.eu) |
 [Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
-[Socials](https://github.com/andriilive/andriilive/blob/main/public/data/socials.json) |
-[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json)
+[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json) |
+[Public assets](https://github.com/andriilive/andriilive/tree/main/public/data)
 <!-- END:SKILLS -->
