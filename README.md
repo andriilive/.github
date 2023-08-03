@@ -12,17 +12,14 @@
 
 ---
 
-### Doing Web Development since 2014
+### Working in the digital field since 2014
 
-Let my portfolio speak for itself instead of relying on words.
-
-[Work experience →](https://andriilive.github.io)
+[Work experience & Portfolio →](https://andriilive.github.io)
 
 ---
 
-[Presentation (PDF)](https://andriilive.github.io) |
+[Presentation](https://andriilive.github.io/docs/presentation.pdf) |
 [Instagram](https://www.instagram.com/digitalandy.eu) |
-[Telegram feed](https://t.me/digitalandyeu) |
+[Telegram](https://t.me/digitalandyeu) |
 [Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
-[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json) |
-[Shared](https://github.com/andriilive/andriilive/tree/main/public)
+[Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json)
