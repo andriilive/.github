@@ -7,20 +7,22 @@
 
 - Websites production <sub><sup>(SEO / WOW / Ecommerce)</sub></sup>
 - Art direction <sub><sup>(sm / xs digital projects)</sub></sup>
-- Ex-designer skills: prototyping, UI/UX design, branding
-- IT support and automation for business
-
-I'm ready to collaborate with agencies, startups and small businesses 
+- Ex-designer side-services: prototyping, UX/UI, branding
+- IT support / business automation
 
 ---
 
-Work experience & portfolio 
+### Doing Web Development since 2014
+
+Let my portfolio speak for itself instead of relying on words.
+
+[Work experience →](https://andriilive.github.io)
 
 ---
-<!-- START:LINKS -->
-[Commercial offer PDF](http://andriilive.github.io) |
+
+[Presentation (PDF)](https://andriilive.github.io) |
 [Instagram](https://www.instagram.com/digitalandy.eu) |
+[Telegram feed](https://t.me/digitalandyeu) |
 [Contacts](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/contacts.json) |
 [Referrals](https://raw.githubusercontent.com/andriilive/andriilive/main/public/data/referrals.json) |
-[Static Assets](https://github.com/andriilive/andriilive/tree/main/public)
-<!-- END:SKILLS -->
+[Shared](https://github.com/andriilive/andriilive/tree/main/public)
