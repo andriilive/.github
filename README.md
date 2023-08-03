@@ -37,6 +37,34 @@ Building digital solutions **since 2015**
 - Enterprise economy degree. On-line marketing degree <sub><sup>(unfinished)</sup></sub>
 - Continuous learning, adaptability, empathy
 
+### Development tags cloud ☁️
+
+#### <sub>Primary</sub>
+
+`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
+
+#### <sub>Secondary</sub>
+
+`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
+
+`Relational Databases` `SQL`
+
+`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
+
+`Laravel` `WooCommerce` `Wordpress`
+
+`Tailwind CSS` `Functional Programming` `Next.js` `PostCSS` `WebPack` `GatsbyJS`
+
+#### <sub>Side</sub>
+
+`Online Marketing` `Prototyping`  `Email Marketing` `Figma` `Framer` `Finance`
+
+#### <sub>Tools & software</sub>
+
+`Docker` `Git` `Unix administration` `Vercel` `Netlify` `MacOS`
+
+`Postman` `JetBrains` `GitHub`
+
 ## Career journey 💼
 
 From graphical design to web-development
@@ -102,6 +130,6 @@ From graphical design to web-development
 
 [Download **CV & Portfolio PDF**](https://api.digitalandy.eu/me/cv) ・
 [Instagram](https://www.instagram.com/digitalandy.eu) ・
-[LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・ 
+[LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・
 [Telegram Channel](https://t.me/digitalandyeu) ・
 [vCard](https://api.digitalandy.eu/me/vcf)
