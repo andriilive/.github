@@ -42,7 +42,7 @@ Building digital solutions **since 2015**
 
 #### <sub>Primary</sub>
 
-`PHP` `JavaScript` `Web Design` `Node.js` `React JS`
+`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
 
 #### <sub>Secondary</sub>
 
@@ -54,7 +54,7 @@ Building digital solutions **since 2015**
 
 `Laravel` `WooCommerce` `Wordpress` `Headless CMS`
 
-`Functional Programming` `PostCSS` `ES6` `Webpack` `TypeScript`
+`Functional Programming` `PostCSS` `WebPack` `ES6` `TypeScript`
 
 `Next.js` `GatsbyJS` `Astro` `Tailwind CSS` `Jamstack`
 
@@ -66,41 +66,13 @@ Building digital solutions **since 2015**
 
 #### <sub>Tools & software</sub>
 
-`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
-
 `Docker` `Git` `Unix administration` `MacOS` `jq`
 
-`Postman` `JetBrains` `GitHub`
-
-`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
-
-### Development tags cloud ☁️
-
-#### <sub>Primary</sub>
-
-`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
-
-#### <sub>Secondary</sub>
-
-`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
-
-`Relational Databases` `SQL`
-
-`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
-
-`Laravel` `WooCommerce` `Wordpress`
-
-`Tailwind CSS` `Functional Programming` `Next.js` `PostCSS` `WebPack` `GatsbyJS`
-
-#### <sub>Side</sub>
-
-`Online Marketing` `Prototyping`  `Email Marketing` `Figma` `Framer` `Finance`
-
-#### <sub>Tools & software</sub>
-
-`Docker` `Git` `Unix administration` `Vercel` `Netlify` `MacOS`
+`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
 
 `Postman` `JetBrains` `GitHub` `Linters` `Code formatters`
+
+`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
 
 ## Career journey 💼
 
