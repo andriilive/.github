@@ -48,9 +48,7 @@
 
 </details>
 
-## Work experience 👷🏼
-
-Building digital solutions **since 2015**
+## Skills 👨🏻‍🍳
 
 <sub>Experienced (5+ yrs)</sub>
 
@@ -77,7 +75,7 @@ Building digital solutions **since 2015**
 - Continuous learning, adaptability, empathy
 - **Jamstack**: Headless WP, Keystone.js, Strapi, supabase.io
 
-## Career journey 💼
+## Career journey 🚀
 
 From graphical design to web-development
 
@@ -126,7 +124,6 @@ From graphical design to web-development
 - Email templates developer & designer  <sub><sup>Outsource, Cinemood USA (2019-2020)</sub></sup>
 - Finished **Creative marketing (Course 1/3) 🎓** <sub><sup>Transferred to Online marketing</sub></sup>
 - Terminated **Online marketing degree (Course 2/3)  🎓** <sub><sup>Unfinished bachelor, Prague School of Creative Communication</sub></sup>
-
 
 <sub><sup>2021</sup></sub>
 
