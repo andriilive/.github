@@ -7,7 +7,7 @@
 
 - Websites production<sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
 - Business IT integrations / automations development
-- Branding and graphic design
+- Branding, graphic and web design
 
 `PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
 
