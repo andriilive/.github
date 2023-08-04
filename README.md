@@ -5,9 +5,9 @@
 
 **Full-stack web developer** experienced in front-end dev and design.
 
-- Websites production<sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
-- Business IT integrations / automations development
-- Branding, graphic and web design
+- **Websites** production <sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
+- Business IT integrations / **automations development**
+- Branding, graphic and **web design**
 
 `PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
 
