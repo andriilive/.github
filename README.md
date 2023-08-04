@@ -1,15 +1,54 @@
-# Andrii Ivashchuk <sub><sup>[CV & Portfolio website →](http://andriilive.github.io)</sub></sup>
+# Web Development & Design <sub><sup>[Portfolio →](http://andriilive.github.io)</sub></sup>
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)&nbsp;
 [![Github Badge](https://img.shields.io/github/followers/digitalandyeu?label=@digitalandyeu&style=social)](https://www.github.com/digitalandyeu)
 
 **Full-stack web developer** experienced in front-end dev and design.
 
-- Websites <sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
-- Business IT integrations / automations
+- Websites production<sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
+- Business IT integrations / automations development
 - Branding and graphic design
 
-## Skills & experience 👷🏼
+`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
+
+<!-- TODO: Secnod row !-->
+
+<details>
+<summary>More tags𓈓</summary>
+
+`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
+
+`Relational Databases` `SQL`
+
+`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
+
+`Laravel` `WooCommerce` `Wordpress` `Headless CMS`
+
+`Functional Programming` `PostCSS` `WebPack` `ES6` `TypeScript`
+
+`Next.js` `GatsbyJS` `Astro` `Tailwind CSS` `Jamstack`
+
+---
+
+`Online Marketing` `Prototyping`  `Email Marketing` `Finance`
+
+`Remote development` `Framer Motion` `Gsap`
+
+---
+
+`Docker` `Git` `Unix administration` `MacOS` `jq`
+
+`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
+
+`Postman` `JetBrains` `GitHub` `linters` `formatters`
+
+---
+
+`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
+
+</details>
+
+## Work experience 👷🏼
 
 Building digital solutions **since 2015**
 
@@ -37,42 +76,6 @@ Building digital solutions **since 2015**
 - Enterprise economy degree. On-line marketing degree <sub><sup>(unfinished)</sup></sub>
 - Continuous learning, adaptability, empathy
 - **Jamstack**: Headless WP, Keystone.js, Strapi, supabase.io
-
-### Development tags cloud ☁️
-
-#### <sub>Primary</sub>
-
-`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
-
-#### <sub>Secondary</sub>
-
-`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
-
-`Relational Databases` `SQL`
-
-`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
-
-`Laravel` `WooCommerce` `Wordpress` `Headless CMS`
-
-`Functional Programming` `PostCSS` `WebPack` `ES6` `TypeScript`
-
-`Next.js` `GatsbyJS` `Astro` `Tailwind CSS` `Jamstack`
-
-#### <sub>Side</sub>
-
-`Online Marketing` `Prototyping`  `Email Marketing` `Finance`
-
-`Remote development` `Framer Motion`
-
-#### <sub>Tools & software</sub>
-
-`Docker` `Git` `Unix administration` `MacOS` `jq`
-
-`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
-
-`Postman` `JetBrains` `GitHub` `Linters` `Code formatters`
-
-`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App` `husky` `eslint` `prettier`
 
 ## Career journey 💼
 
@@ -137,8 +140,7 @@ From graphical design to web-development
 
 ---
 
-[Download **CV & Portfolio PDF**](https://api.digitalandy.eu/me/cv) ・
+[PDF Version](https://api.digitalandy.eu/me/cv) ・
 [Instagram](https://www.instagram.com/digitalandy.eu) ・
-[LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・
-[Telegram Channel](https://t.me/digitalandyeu) ・
-[vCard](https://api.digitalandy.eu/me/vcf)
+[Telegram](https://t.me/digitalandyeu) ・
+[Public Data](public/)
