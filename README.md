@@ -5,75 +5,69 @@
 
 **Full-stack web developer** experienced in front-end dev and design.
 
-- **Websites** production <sub><sup>(SEO / WOW / Ecommerce)</sup></sub>
-- Business IT integrations / **automations development**
-- Branding, graphic and **web design**
-
-`PHP` `JavaScrip` `Web Design` `Node.js` `React JS`
-
-<!-- TODO: Secnod row !-->
-
-<details>
-<summary>More tags𓈓</summary>
-
-`HTML` `SASS` `CSS` `Responsive design` `SEO` `Web 2.0` `restful API`
-
-`Relational Databases` `SQL`
-
-`Browser automation` `CI/CD` `Puppeteer` `Bash` `Zsh` `Shell Scripting`
-
-`Laravel` `WooCommerce` `Wordpress` `Headless CMS`
-
-`Functional Programming` `PostCSS` `WebPack` `ES6` `TypeScript`
-
-`Next.js` `GatsbyJS` `Astro` `Tailwind CSS` `Jamstack`
-
----
-
-`Online Marketing` `Prototyping`  `Email Marketing` `Finance`
-
-`Remote development` `Framer Motion` `Gsap`
-
----
-
-`Docker` `Git` `Unix administration` `MacOS` `jq`
-
-`GitPod` `apache` `nginx` `digitalocean` `Vercel` `Netlify`
-
-`Postman` `JetBrains` `GitHub` `linters` `formatters`
-
----
-
-`Figma` `Framer` `Adobe PS` `Adobe AI` `Sketch App`
-
-</details>
-
-## Skills 👨🏻‍🍳
-
 <sub>Experienced (5+ yrs)</sub>
 
 - Digital Engineering
 - UX / UI and graphic designs production
 - Frontend development
-- Development with PHP and WP
+- PHP Development, WordPress
 
 <sub>Competent (2+ yrs)</sub>
 
-- Laravel backend development
-- Relational DB & SQL
 - Node.js / TypeScript functional programming
+- Relational databases & SQL
 - React Developer <sub><sup>(Next.js / Tailwind / PostCSS )</sup></sub>
 
 <sub>Junior / Side</sub>
 
-- Browser automations with **Puppeteer.js**
-- **Restful API** development with Lumen & testing with **Postman**
+- PHP Laravel Framework, OOP Concepts
+- Browser automation with **Puppeteer.js**
 - **Unix** / OSX / servers environments management.
-- United prototyping, design, animations and code in **Framer X**
-- GSAP, Framer Motion and morphing SVG animations
-- Enterprise economy degree. On-line marketing degree <sub><sup>(unfinished)</sup></sub>
-- Continuous learning, adaptability, empathy
-- **Jamstack**: Headless WP, Keystone.js, Strapi, supabase.io
+- United prototyping, design, animations, and code in **Framer X**
+- GSAP and morphing SVG animations
+- Enterprise economy degree. Online marketing degree <sub><sup>(unfinished)</sup></sub>
+
+<details>
+<summary>Skills grouped by types𓈓</summary>
+
+### Frontend:
+- React (NextJS / GatsbyJS)
+- JavaScript (ES6+)
+- Webpack
+- HTML5/CSS3
+- Styling dialects (SASS/PostCSS/CSS-in-JS)
+- Functional Programming
+
+### Backend / Full Stack:
+- Node.js
+- TypeScript
+- PHP (Laravel / WordPress)
+- Relational Databases (SQL)
+- RESTful APIs
+- OOP Concepts
+
+### DevOps:
+- Git
+- CI/CD
+- Docker
+- Unix
+- Shell Scripting
+- Networking
+- Dev Environments
+
+### Tester:
+- Browser automation with Puppeteer.js
+- Browser DevTools
+
+Designer:
+UI
+Responsive Design
+Prototyping
+Style Systems
+
+Design tools: Figma, Framer, Adobe PS, Adobe AI, Sketch App
+
+</details>
 
 ## Career journey 🚀
 
