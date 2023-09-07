@@ -1,4 +1,4 @@
-# Web Development & Design <sub><sup>[Portfolio →](http://andriilive.github.io)</sub></sup>
+# Web Development & Design <sub><sup>[Portfolio →](https://andriilive.github.io)</sub></sup>
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)&nbsp;
 [![Github Badge](https://img.shields.io/github/followers/digitalandyeu?label=@digitalandyeu&style=social)](https://www.github.com/digitalandyeu)
@@ -217,9 +217,9 @@
 
 ---
 
-[Presentation + Portfolio (PDF)](https://api.digitalandy.eu/me/cv) ・
-[vCard](https://api.digitalandy.eu/me/vcard) ・
-[Instagram](https://www.instagram.com/digitalandy.eu) ・
+[Presentation & Portfolio (PDF)](https://andriilive.github.io/andriilive-fullstack-web-developer.pdf) ・
+[vCard](https://andriilive.github.io/vcard) ・
 [LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・
 [Telegram](https://t.me/digitalandyeu) ・
+[Instagram](https://www.instagram.com/digitalandy.eu) ・
 [Public Data](public/)
