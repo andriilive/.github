@@ -217,9 +217,9 @@
 
 ---
 
-[Presentation & Portfolio (PDF)](https://andriilive.github.io/andriilive-fullstack-web-developer.pdf) ・
+[Portfolio](https://andriilive.github.io) ・
 [vCard](https://andriilive.github.io/vcard) ・
 [LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・
-[Telegram](https://t.me/digitalandyeu) ・
+[Telegram Feed](https://t.me/digitalandyeu) ・
 [Instagram](https://www.instagram.com/digitalandy.eu) ・
-[Public Data](public/)
+[Public Data](https://api.digitalandy.eu/me)
