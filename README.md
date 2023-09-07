@@ -169,12 +169,12 @@
 <sub><sup>2012</sup></sub>
 
 - IT Systems Administrator (Assistant) <sub><sup>Bank "Oshad", Donetsk (Internship, 3 months)</sub></sup>
-- Made first 100$ with design / dev 🥳 <sub><sup>Freelance</sub></sup>
 - **Enterprise economy specialist** degree (with honors) 🎓 <sub><sup>Donetsk Polytechnic School</sub></sup>
 
 <sub><sup>2013</sup></sub>
 
-- **IT Systems Administrator** (Junior) <sub><sup>Agro Factory, Talne (Outsource / Flexible, until 2018)</sub></sup>
+- **IT Systems Administrator** <sub><sup>Agro Factory, Talne (Outsource / Flexible, until 2018)</sub></sup>
+- Freelance Designer / Developer (Assistant) <sub><sup>Freelancing</sub></sup>
 
 <sub><sup>2014</sup></sub>
 
@@ -184,18 +184,18 @@
 <sub><sup>2015</sup></sub>
 
 - **Czech B2** certificate 🎓 <sub><sup>Language Cource, CVUT</sub></sup>
-- **Graphic & Web Designer** (Junior) <sub><sup>Ticketstream (Full-time, until 2017)</sub></sup>
-- WordPress Developer (Juniour) <sub><sup>@digitalandyeu (Part-time, until 2022)</sub></sup>
+- **Graphic & Web Designer** <sub><sup>Ticketstream (Full-time, until 2017)</sub></sup>
+- Freelance WordPress developer <sub><sup>@digitalandyeu (Self-employed, until now)</sub></sup>
 
 <sub><sup>2017</sup></sub>
 
-- **Frontend Developer** (Junior) <sub><sup>Ticketlive (Flexible, until 2018)</sub></sup>
+- **Frontend Developer** (Assistant) <sub><sup>Ticketlive (Flexible, until 2018)</sub></sup>
 - **Applied Informatics** unfinished bachelor 🎓 <sub><sup>Prague University of Economics and Business. Abandoned II year</sub></sup>
 
 <sub><sup>2018</sup></sub>
 
 - **WordPress Developer** (Middle) <sub><sup>MediaUnit (Outsource, until 2022)</sub></sup>
-- **PHP Developer** (Junior) / Art-Director (Assistant) <sub><sup>OrangeLabel (Flexible, until 2020)</sub></sup>
+- Frontend Developer / **PHP Developer** (Assistant) / Art-Director (Assistant) <sub><sup>OrangeLabel (Flexible, until 2020)</sub></sup>
 
 <sub><sup>2019</sup></sub>
 
@@ -204,16 +204,16 @@
 
 <sub><sup>2020</sup></sub>
 
-- **Full-stack Web Developer** (Junior) <sub><sup>YolkStudio (Full-time, until 2023)</sub></sup>
+- **Full-stack Web Developer** <sub><sup>YolkStudio (Full-time, until 2023)</sub></sup>
 
 <sub><sup>2022</sup></sub>
 
-- **Art Director (Junior)** / Web Developer (Middle) <sub><sup>@digitalandyeu (Part-time, until now)</sub></sup>
+- **Art Director** / Web Developer (Middle) <sub><sup>@digitalandyeu (Part-time, until now)</sub></sup>
 - Russia invaded Ukraine again ☠️ pausing activities
 
 <sub><sup>2023</sup></sub>
 
-- **Full-stack Web Developer (Middle)** <sub><sup>YolkStudio (Outsource, until now)</sub></sup>
+- **Full-stack Web Developer** (Middle) <sub><sup>YolkStudio (Outsource, until now)</sub></sup>
 
 ---
 
