@@ -185,7 +185,7 @@
 
 - **Czech B2** certificate 🎓 <sub><sup>Language Cource, CVUT</sub></sup>
 - **Graphic & Web Designer** <sub><sup>Ticketstream (Full-time, until 2017)</sub></sup>
-- Freelance WordPress developer <sub><sup>@digitalandyeu (Self-employed, until now)</sub></sup>
+- Freelance WP developer <sub><sup>@digitalandyeu (Self-employed, until 2022)</sub></sup>
 
 <sub><sup>2017</sup></sub>
 
@@ -194,7 +194,7 @@
 
 <sub><sup>2018</sup></sub>
 
-- **WordPress Developer** (Middle) <sub><sup>MediaUnit (Outsource, until 2022)</sub></sup>
+- **WP Developer** (Middle) <sub><sup>MediaUnit (Outsource, until 2021)</sub></sup>
 - Frontend Developer / **PHP Developer** (Assistant) / Art-Director (Assistant) <sub><sup>OrangeLabel (Flexible, until 2020)</sub></sup>
 
 <sub><sup>2019</sup></sub>
@@ -208,7 +208,7 @@
 
 <sub><sup>2022</sup></sub>
 
-- **Art Director** / Web Developer (Middle) <sub><sup>@digitalandyeu (Part-time, until now)</sub></sup>
+- Freelance **Art Director** / Full-stack Web Developer / WP Developer (Senior) <sub><sup>@digitalandyeu (Self-employed, until now)</sub></sup>
 - Russia invaded Ukraine again ☠️ pausing activities
 
 <sub><sup>2023</sup></sub>
@@ -217,8 +217,7 @@
 
 ---
 
-[Portfolio](https://api.digitalandy.eu/me/portfolio) ・
-[PDF Version](https://api.digitalandy.eu/me/cv) ・
+[Presentation + Portfolio (PDF)](https://api.digitalandy.eu/me/cv) ・
 [vCard](https://api.digitalandy.eu/me/vcard) ・
 [Instagram](https://www.instagram.com/digitalandy.eu) ・
 [LinkedIn](https://www.linkedin.com/in/andyivashchuk) ・
