@@ -21,9 +21,8 @@
 
 - **Laravel** developer
 - Web **tester** <sub><sup>Browser automation / Puppeteer / Postman / QA</sup></sub>
-- Business Logic Developer <sub><sup>Micro services / API's / Hooks / Zapier</sup></sub>
-- **Framer X** <sub><sup>Prototyping on real data / Animations / UX / UI / Code components</sup></sub>
-- Email marketing <sub><sup>Foundation emails / MJML / MailChimp / SendGrid / Litmus</sup></sub>
+- **Framer X** (Design & Code) <sub><sup>Live prototyping / Animations / Code components</sup></sub>
+- Email marketing specialist <sub><sup>Foundation emails / MJML / MailChimp / SendGrid / Litmus</sup></sub>
 
 <details>
 <summary>Skills grouped by types𓈓</summary>
@@ -115,6 +114,7 @@
 - MS Office <sub><sup>(VBA, Excel, Word, Outlook)</sup></sub>
 - MS Windows Advanced <sub><sup>(Windows XP, MS-DOS)</sup></sub>
 - Unix Servers Management (Linux / CentOS)
+- Business Logic Developer <sub><sup>Micro services / API's / Hooks / Zapier</sup></sub>
 
 ---
 
