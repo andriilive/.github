@@ -5,23 +5,23 @@
 
 **Full-stack web developer** experienced in front-end dev and design. 
 
-<sub>**Experienced** as (5+ yrs):</sub>
+<sub>**Experienced** (5+ years):</sub>
 
-- **Web Developer (Frontend / PHP / WordPress)**
-- Graphic and Web Designer
-- Digital Engineer <sub><sup>Low Code / IT support / Data management / Business automation</sup></sub> 
+- **Web developer (Frontend / PHP / WordPress)**
+- Graphic & Web designer
+- Digital engineer <sub><sup>Low Code / IT support / Data management / Business automation</sup></sub> 
 
-<sub>**Competent** in (2+ yrs):</sub>
+<sub>**Competent** (2+ years):</sub>
 
-- **React** <sub><sup>NextJS / PostCSS / TypeScript</sup></sub>
+- **React** <sub><sup>NextJS / GraphQL / PostCSS / TypeScript</sup></sub>
 - **VPS** administration <sub><sup>Linux / Shell scripting / Networking</sup></sub>
-- Devteam ecosystems <sub><sup>Git / Unix / Docker / Environments / Codes of conduct / CI / CD</sup></sub>
+- Devteam tools <sub><sup>Git / Unix / Docker / Dev environments / Code of conduct</sup></sub>
 
-<sub>**Juniour** / Side skills (1+ yrs)</sub>
+<sub>**Juniour** / Side skills (1+ year)</sub>
 
 - **Laravel** developer
-- **Web tester** <sub><sup>Puppeteer.js / Browser automation / Postman</sup></sub>
-- Business Logic Dev <sub><sup>Micro services / API's / Hooks / Zapier</sup></sub>
+- Web **tester** <sub><sup>Browser automation / Puppeteer / Postman / QA</sup></sub>
+- Business Logic Developer <sub><sup>Micro services / API's / Hooks / Zapier</sup></sub>
 - **Framer X** <sub><sup>Prototyping on real data / Animations / UX / UI / Code components</sup></sub>
 - Email marketing <sub><sup>Foundation emails / MJML / MailChimp / SendGrid / Litmus</sup></sub>
 
@@ -145,73 +145,70 @@
 
 </details>
 
-## Degrees 🎓
+<details>
+<summary>Volunteer activities𓈓</summary>
 
-<sub><sup>2009-2013 Donetsk IT Academy Courses</sup></sub>
+## Student Volunteer activities 🎓
 
-- Computer scince <sub><sup> MS Windows XP Advanced. MS-DOS. Networks</sub></sup>
-- MS Office 2010 <sub><sup>Excel. Access DB + SQL. VBA Programming</sub></sup>
-- Web Design Basics <sub><sup>Adobe PS / Illustrator for web designers</sub></sup>
-- **Web 2.0** <sub><sup>HTML5/CSS3. JavaScript. PHP. MySQL. Apache. Networking</sub></sup>
-- Macromedia Flash 8 <sub><sup>Animation. Programming with Action Script</sub></sup>
+- Designing printed materials <sub><sup>AIESEC Donetsk</sub></sup>
+- Templating school docs with MS Excel / Word <sub><sup>Donetsk Polytechnic School</sub></sup>
+- Developed exams quiz application with VBA <sub><sup>Donetsk Polytechnic School</sub></sup>
+  
+</details>
 
-<sub><sup>High Schools</sup></sub>
+## Career journey 🚀
 
-- **Enterprise economy** <sub><sup>Donetsk Polytechnic School. Specialist (with honours)</sub></sup>
-- International Economics <sub><sup>Donetsk National University. Bachelor (unfinished, 2/3 years)</sup></sub>
-- **Applied Informatics** (unfinished bachelor) <sub><sup>Prague University of Economics and Business. Bachelor (unfinished, 1.5/3 years)</sub></sup>
-- Online Marketing <sub><sup>Prague School of Creative Communication. Bachelor (unfinished, 2/3 years)</sub></sup>
+<sub><sup>2009-2013 Donetsk IT Academy </sup></sub>
 
-<sub><sup>Student volunteer activities</sup></sub>
+- Computer scince <sub><sup> MS Windows XP Advanced / MS-DOS / Networking</sub></sup>
+- MS Office 2010 <sub><sup>Excel / Access DB + SQL / VBA Programming</sub></sup>
+- Web Design Basics <sub><sup>Adaptive design / Adobe PS / AI</sub></sup>
+- **Web 2.0** <sub><sup>HTML5 / CSS3 / JavaScript / PHP / MySQL / Apache / Adobe Dreamviewer</sub></sup>
+- Macromedia Flash 8 <sub><sup>Action Script / Motion Design / Animations / SWF</sub></sup>
 
-- Designing printed materials <sub><sup>Marketing Staff, AIESEC Donetsk</sub></sup>
-- Templating school docs with MS Excel / Word <sub><sup>IT Staff, Donetsk Polytechnic School</sub></sup>
-- Developed exams quiz application with VBA <sub><sup>IT Staff, Donetsk Polytechnic School</sub></sup>
+<sub><sup>2012</sup></sub>
 
-## Career journey 🚀 <sub><sup>Designer -> Developer</sub></sup>
+- IT department assistant <sub><sup>Bank "Oshad", Donetsk (Internship, 3 months)</sub></sup>
+- Made first 100$ with design / dev 🥳 <sub><sup>Freelance</sub></sup>
+- **Enterprise economy specialist** degree (with honors) 🎓 <sub><sup>Donetsk Polytechnic School</sub></sup>
 
 <sub><sup>2013</sup></sub>
 
-- IT Internship <sub><sup>2 month, Bank "Oshad" Donetsk</sub></sup>
-- IT department assistant <sub><sup>Outsource / flexible, Agro Factory, Talne (until 2018)</sub></sup>
+- **IT engineer assistant** <sub><sup>Agro Factory, Talne (Outsource / Flexible, until 2018)</sub></sup>
 
 <sub><sup>2014</sup></sub>
 
-- Graphic / Web Designer <sub><sup>Freelance, Ukraine</sub></sup>
-- **International Economics degree 🎓** <sub><sup>Unfinished bachelor (Course 2/3), Donetsk National University</sup></sub>
-
-Russian army captured my hometown, Donetsk 😿  
-I Suspended all activities, moved to <b>Prague, Czech Republic</b> and started my career and degree over
+- Russia invaded Ukraine ☠️ pausing activities & moving to **Prague** to start over
+- **International Economics** unfinished bachelor 🎓 <sub><sup>Donetsk National University. Abandoned II year</sup></sub>
 
 <sub><sup>2015</sup></sub>
 
-- Graphic Designer / Web Developer <sub><sup>Full-time. Ticketstream (until 2017)</sub></sup>
-- **WordPress Developer** <sub><sup>Freelance, Czech Republic</sup></sub>
+- **Czech B2** certificate 🎓 <sub><sup>Language Cource, CVUT</sub></sup>
+- Graphic Designer / Web Developer <sub><sup>Ticketstream (Full-time, until 2017)</sub></sup>
 
 <sub><sup>2017</sup></sub>
 
-- **Junior Frontend Developer** / Designer <sub><sup>Flexible. Ticketlive (2017-2018)</sub></sup>
-- **Web Developer & Designer** <sub><sup>Freelance, part-time</sub></sup>
+- **Junior Frontend Developer** / Designer <sub><sup>Ticketlive (Flexible, until 2018)</sub></sup>
+- **Applied Informatics** unfinished bachelor 🎓 <sub><sup>Prague University of Economics and Business. Abandoned II year</sub></sup>
 
 <sub><sup>2018</sup></sub>
 
-- **Full-stack Web Developer** / Designer <sub><sup>Flexible, Orange label studio (2018-2020)</sub></sup>
-- WordPress Developer <sub><sup>Outsource, MediaUnit (2018-2022)</sub></sup>
+- **PHP Developer** / Designer <sub><sup>OrangeLabel (Flexible, until 2020)</sub></sup>
+- WordPress Developer <sub><sup>MediaUnit (Outsource, until 2022)</sub></sup>
 
-<sub><sup>2019-2021 Back to high-school, **PSCC 🧑🏻‍🏫**</sup></sub>
+<sub><sup>2019</sup></sub>
 
-- **Online marketing degree** 🎓 <sub><sup>Unfinished bachelor (Course 2/3), Prague School of Creative Communication</sub></sup>
-- Developer & Designer (Emails marketing) <sub><sup>Outsource, Cinemood USA (2019-2020)</sub></sup>
-- Frontend Developer <sub><sup>Outsource, OrangeLabel Studio (2019-2021)</sub></sup>
+- Email marketing (Coder / Designer) <sub><sup>Cinemood USA (Outsource, until 2020)</sub></sup>
+- **Creative / On-line marketing** unfinished bachelor 🎓 <sub><sup>Prague School of Creative Communication. Abandoned II year</sub></sup>
 
 <sub><sup>2021</sup></sub>
 
-- **Full-stack web developer** <sub><sup>Full-time, YolkStudio (until 2023)</sub></sup>
-- Rapidly **improving as React / Next.js / PHP Developer & DevOps** <sub><sup>Outsource (until now)</sub></sup>
+- **Full-stack web developer** <sub><sup>YolkStudio (Full-time, until 2023)</sub></sup>
+- Art Diretor / Developer <sub><sup>@digitalandyeu (Part-time, until now)</sub></sup>
 
 <sub><sup>2023</sup></sub>
 
-- **Middle full-stack web developer** <sub><sup>Outsource, YolkStudio (2023-now)</sub></sup>
+- **Middle full-stack web developer** <sub><sup>YolkStudio (Outsource, until now)</sub></sup>
 
 ---
 
