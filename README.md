@@ -28,44 +28,49 @@
 - Enterprise economy degree. Online marketing degree <sub><sup>(unfinished)</sup></sub>
 
 <details>
-    <summary>Skills grouped by types𓈓</summary>
+<summary>Skills grouped by types𓈓</summary>
 
-    ### Frontend:
-    - React (NextJS / GatsbyJS)
-    - JavaScript (ES6+)
-    - Webpack
-    - HTML5/CSS3
-    - Styling dialects (SASS/PostCSS/CSS-in-JS)
-    - Functional Programming
+### Frontend:
 
-    ### Backend / Full Stack:
-    - Node.js
-    - TypeScript
-    - PHP (Laravel / WordPress)
-    - Relational Databases (SQL)
-    - RESTful APIs
-    - OOP Concepts
+- React (NextJS / GatsbyJS)
+- JavaScript (ES6+)
+- Webpack
+- HTML5/CSS3
+- Styling dialects (SASS/PostCSS/CSS-in-JS)
+- Functional Programming
 
-    ### DevOps:
-    - Git
-    - CI/CD
-    - Docker
-    - Unix
-    - Shell Scripting
-    - Networking
-    - Dev Environments
+### Backend / Full Stack:
 
-    ### Tester:
-    - Browser automation with Puppeteer.js
-    - Browser DevTools
+- Node.js
+- TypeScript
+- PHP (Laravel / WordPress)
+- Relational Databases (SQL)
+- RESTful APIs
+- OOP Concepts
 
-    Designer:
-    UI
-    Responsive Design
-    Prototyping
-    Style Systems
+### DevOps:
 
-    Design tools: Figma, Framer, Adobe PS, Adobe AI, Sketch App
+- Git
+- CI/CD
+- Docker
+- Unix
+- Shell Scripting
+- Networking
+- Dev Environments
+
+### Tester:
+
+- Browser automation with Puppeteer.js
+- Browser DevTools
+
+# Designer:
+
+- UI
+- Responsive Design
+- Prototyping
+- Style Systems
+
+**Design tools:** Figma, Framer, Adobe PS, Adobe AI, Sketch App
 
 </details>
 
