@@ -1,0 +1,54 @@
+{
+  "payments" : [
+    {
+      "id": "revolut",
+      "title": "Revolut Payment to @digitalandy (EUR / USD / CZK)",
+      "currencyIds": ["EUR", "USD", "CZK"],
+      "tags": [],
+      "href": "https://revolut.me/digitalandy"
+    },
+    {
+      "id": "fio",
+      "title": "Bankovní převod na účet Fio Banky CZ (CZK)",
+      "currencyIds": ["CZK"],
+      "tags": ["cs"],
+      "href": "SPD*1.0*ACC:CZ1020100000002800828446*AM:10000.00*CC:CZK*DT:20231115*MSG:fio payment to andriilive"
+    },
+    {
+      "id": "paypal",
+      "title": "PayPal Payment to @digitalandyeu (USD / CZK)",
+      "currencyIds": ["USD", "CZK"],
+      "tags": [],
+      "href": "https://www.paypal.com/paypalme/digitalandyeu"
+    },
+    {
+      "id": "monobank",
+      "title": "Переказ на картку monobank (UAH). Одержувач: Андрій І.",
+      "currencyIds": ["UAH"],
+      "tags": ["uk"],
+      "href": "https://send.monobank.ua/7LKGCZnDGj"
+    }
+  ],
+  "currencies": [
+    {
+      "id": "CZK",
+      "title": "Czech Koruna",
+      "symbol": "Kč"
+    },
+    {
+      "id": "EUR",
+      "title": "Euro",
+      "symbol": "€"
+    },
+    {
+      "id": "USD",
+      "title": "US Dollar",
+      "symbol": "$"
+    },
+    {
+      "id": "UAH",
+      "title": "Ukrainian Hryvnia",
+      "symbol": "₴"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "andriilive",
+  "description": "andriilive personal github readme",
+  "author": "Andrii Ivashchuk <hi@digitalandy.eu> (@digitalandyeu)",
+  "homepage": "https://andriilive.github.io",
+  "repository": "https://github.com/andriilive/andriilive",
+  "version": "1.0.1",
+  "license": "MIT",
+  "keywords": [
+    "json-server"
+  ],
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "main": "json-server/db.js",
+  "scripts": {
+    "start": "json-server --watch json-server/db.js --port 3000 --static ./node_modules/json-server/public",
+    "serve": "nodemon server.js",
+    "serve2": "nodemon json-server/eserver.js",
+    "generate:qr": "bash scripts/jq-qr.sh",
+    "dev": "nodemon -e ts  --exec \"npm run tsbuild\"",
+    "tsbuild": "tsc -p . && node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "peerDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}

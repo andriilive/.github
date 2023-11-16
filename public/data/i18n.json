@@ -1,0 +1,29 @@
+{
+  "lang": [
+    {
+      "id": "uk",
+      "content": {
+        "level": 0
+      }
+    },
+    {
+      "id": "ru",
+      "locale": "ru",
+      "content": {
+        "level": 0
+      }
+    },
+    {
+      "id": "en",
+      "content": {
+        "level": 3
+      }
+    },
+    {
+      "id": "cs",
+      "content": {
+        "levelId": 2
+      }
+    }
+  ]
+}
