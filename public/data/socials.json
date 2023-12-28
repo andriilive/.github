@@ -83,5 +83,10 @@
     "text": "Spotify",
     "href": "https://open.spotify.com/user/31bcsxrpuwlj5ios43ubx5erendm",
     "weight": 0
+  },
+  {
+    "text": "StackExchange",
+    "href": "https://stackexchange.com/users/16573056/andrii-iv?tab=accounts",
+    "weight": 0
   }
 ]
