@@ -73,5 +73,15 @@
     "text": "Mastodon CyberPlace",
     "href": "https://cyberplace.social/@andriiiv",
     "weight": 0
+  },
+  {
+    "text": "Google Developer Profile",
+    "href": "https://g.dev/ivandrii",
+    "weight": 0
+  },
+  {
+    "text": "Spotify",
+    "href": "https://open.spotify.com/user/31bcsxrpuwlj5ios43ubx5erendm",
+    "weight": 0
   }
 ]
