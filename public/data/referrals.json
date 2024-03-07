@@ -1,82 +1,87 @@
 [
-    {
-      "id": "warp",
-      "title": "Mac terminal app",
-      "href": "https://app.warp.dev/referral/7DEWJ9"
-    },
-    {
-      "id": "mastodon",
-      "title":"Decentralized microblogging",
-      "href":"https://cyberplace.social/invite/MgtVWrGX"
-    },
-    {
-      "id": "setapp",
-      "title": "Mac apps store subscription",
-      "href": "https://go.setapp.com/invite/7DEWJ9"
-    },
-    {
-      "id": "hostinger",
-      "title": "Cheap hosting (goggle & combine more promo codes)",
-      "href": "https://hostinger.com.ua?REFERRALCODE=1ANDRII78"
-    },
-    {
-      "id": "digitalocean",
-      "title": "Cloud hosting",
-      "href": "https://m.do.co/c/1a9b1b1b5b5d"
-    },
-    {
-      "id": "kiwi",
-      "title": "Flight tickets",
-      "href": "https://kiwi.com/u/fuw7f7"
-    },
-    {
-      "id": "monobankua",
-      "title": "Online UA bank",
-      "href": "https://monobank.ua/r/4KfHN7"
-    },
-    {
-      "id": "revolut",
-      "title": "Multi-currency wallet",
-      "href": "https://revolut.com/referral/?referral-code=andrii00n!AUG1-23-AR-H1"
-    },
-    {
-      "id": "revolut:business",
-      "title": "Payment gateway & API for business",
-      "href": "https://business.revolut.com/signup?promo=referabusiness&ext=andrii233&context=B2B_REFERRAL"
-    },
-    {
-      "id": "nicua",
-      "title": "Free domain .PP.UA",
-      "href": "https://nic.ua/en/signup/qrmbkvth"
-    },
-    {
-      "id": "binance",
-      "title": "Cryptocurrency. ID: 427332734",
-      "href": "https://accounts.binance.info/register?ref=427332734"
-    },
-    {
-      "id": "leap",
-      "title": "AI workflow assistant",
-      "href": "https://tryleap.ai/?ref=aiv"
-    },
-    {
-      "id": "uber",
-      "title": "Uber ID: jkq3g9fpk7u3",
-      "href": "https://referrals.uber.com/refer?id=jkq3g9fpk7u3"
-    },
-    {
-      "id": "foodora.cz",
-      "title": "Food delivery",
-      "href": "https://www.foodora.cz/referral?code=f02c2b8a73d70d3cfadcb945a61c8a8b&geid=DJ_CZ"
-    },
-    {
-      "id": "freeYourMusic",
-      "title": "Transfer / Sync / Migrate music between streaming services",
-      "href": "https://freeyourmusic.com/i/inf589c4e6"
-    },
-    {
-      "id": "wpml",
-      "title": "WPML",
-      "href": "https://wpml.org/?aid=241971&affiliate_key=kDtUbHUQjfEP"
-    }
+  {
+    "id": "warp",
+    "title": "Mac terminal app",
+    "href": "https://app.warp.dev/referral/7DEWJ9"
+  },
+  {
+    "id": "mastodon",
+    "title": "Decentralized microblogging",
+    "href": "https://cyberplace.social/invite/MgtVWrGX"
+  },
+  {
+    "id": "setapp",
+    "title": "Mac apps store subscription",
+    "href": "https://go.setapp.com/invite/7DEWJ9"
+  },
+  {
+    "id": "hostinger",
+    "title": "Cheap hosting (goggle & combine more promo codes)",
+    "href": "https://hostinger.com.ua?REFERRALCODE=1ANDRII78"
+  },
+  {
+    "id": "digitalocean",
+    "title": "Cloud hosting",
+    "href": "https://m.do.co/c/1a9b1b1b5b5d"
+  },
+  {
+    "id": "kiwi",
+    "title": "Flight tickets",
+    "href": "https://kiwi.com/u/fuw7f7"
+  },
+  {
+    "id": "monobankua",
+    "title": "Online UA bank",
+    "href": "https://monobank.ua/r/4KfHN7"
+  },
+  {
+    "id": "revolut",
+    "title": "Multi-currency wallet",
+    "href": "https://revolut.com/referral/?referral-code=andrii00n!AUG1-23-AR-H1"
+  },
+  {
+    "id": "revolut:business",
+    "title": "Payment gateway & API for business",
+    "href": "https://business.revolut.com/signup?promo=referabusiness&ext=andrii233&context=B2B_REFERRAL"
+  },
+  {
+    "id": "nicua",
+    "title": "Free domain .PP.UA",
+    "href": "https://nic.ua/en/signup/qrmbkvth"
+  },
+  {
+    "id": "binance",
+    "title": "Cryptocurrency. ID: 427332734",
+    "href": "https://accounts.binance.info/register?ref=427332734"
+  },
+  {
+    "id": "leap",
+    "title": "AI workflow assistant",
+    "href": "https://tryleap.ai/?ref=aiv"
+  },
+  {
+    "id": "uber",
+    "title": "Uber ID: jkq3g9fpk7u3",
+    "href": "https://referrals.uber.com/refer?id=jkq3g9fpk7u3"
+  },
+  {
+    "id": "foodora.cz",
+    "title": "Food delivery",
+    "href": "https://www.foodora.cz/referral?code=f02c2b8a73d70d3cfadcb945a61c8a8b&geid=DJ_CZ"
+  },
+  {
+    "id": "freeYourMusic",
+    "title": "Transfer / Sync / Migrate music between streaming services",
+    "href": "https://freeyourmusic.com/i/inf589c4e6"
+  },
+  {
+    "id": "wpml",
+    "title": "WPML",
+    "href": "https://wpml.org/?aid=241971&affiliate_key=kDtUbHUQjfEP"
+  },
+  {
+    "id": "cloudinary",
+    "title": "Cloud image & video storage",
+    "href": "https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qzjqt1agjkokpz1v0d2v?t=default"
+  }
 ]
