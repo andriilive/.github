@@ -18,7 +18,7 @@
 - Relational databases & SQL
 - React Developer <sub><sup>(Next.js / Tailwind / PostCSS )</sup></sub>
 
-<sub>Junior / Side</sub>
+<sub>Other expertise</sub>
 
 - PHP Laravel Framework, OOP Concepts
 - Browser automation with **Puppeteer.js**
