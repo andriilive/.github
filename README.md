@@ -74,6 +74,9 @@
 
 </details>
 
+<details>
+<summary>Career𓈓</summary>
+
 ## Career journey 🚀
 
 <sub><sup>2009-2013 Donetsk IT Academy Evening School Courses</sup></sub>
@@ -128,6 +131,7 @@
 
 - Full-stack web developer <sub><sup>Outsource. Yolk design and development studio (2023-now)</sup></sub>
 - Outsourcing Small business dev  <sub><sup>Self-employed. digitalandyeu (2021-now)</sup></sub>
+</details>
 
 ---
 
