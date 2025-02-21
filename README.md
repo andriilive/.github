@@ -10,17 +10,17 @@
 - Digital Engineering
 - UX / UI and graphic designs production
 - Frontend development
-- PHP Development, WordPress
+- WordPress
 
-<sub>Competent (2+ yrs)</sub>
+<sub>Competent (3+ yrs)</sub>
 
 - Node.js / TypeScript functional programming
+- PHP
 - Relational databases & SQL
 - React Developer <sub><sup>(Next.js / Tailwind / PostCSS )</sup></sub>
 
 <sub>Other expertise</sub>
 
-- PHP Laravel Framework, OOP Concepts
 - Browser automation with **Puppeteer.js**
 - **Unix** / OSX / servers environments management.
 - United prototyping, design, animations, and code in **Framer X**
